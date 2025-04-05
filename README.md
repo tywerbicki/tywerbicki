@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I spend most of my time these days writing proprietary software for GPUs. My current fascination is with CUDA's [cooperative groups API](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#cooperative-groups) and [C++ core libraries](https://github.com/NVIDIA/cccl) - my latest tinkerings can be found in `Exclusive Scan` in my [Cuda-Projects](https://github.com/tywerbicki/Cuda-Projects) repository.
+I spend most of my time these days writing proprietary user-mode software that accompanies highly parallel hardware. My latest tinkering can be found in `Exclusive Scan` in my [Cuda-Projects](https://github.com/tywerbicki/Cuda-Projects) repository.
 
 <!--
 **tywerbicki/tywerbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
