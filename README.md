@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I spend most of my time these days writing proprietary user-mode software that accompanies highly parallel hardware. My latest tinkering can be found in `Exclusive Scan` in my [Cuda-Projects](https://github.com/tywerbicki/Cuda-Projects) repository.
+I spend most of my time these days writing proprietary user and kernel space software that accompanies highly parallel hardware.
 
 <!--
 **tywerbicki/tywerbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
